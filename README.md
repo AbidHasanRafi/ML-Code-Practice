@@ -12,3 +12,4 @@ This repository contains various Python practice exercises categorized by topics
 | 01 | Python Basics | Basic syntax, data types, and operators |
 | 02 | Control Flow | Conditional statements, and loops |
 | 03 | Inbuilt Data Structures | Lists, and dictionaries |
+| 04 | Advanced Functions | Defining functions |
