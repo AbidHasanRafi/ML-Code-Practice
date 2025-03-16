@@ -10,3 +10,4 @@ This repository contains various Python practice exercises categorized by topics
 | Lesson No. | Topic | Description |
 |------------|-----------------|------------------------------------------------|
 | 01 | Python Basics | Basic syntax, data types, and operators |
+| 02 | Control Flow | Conditional statements, and loops |
