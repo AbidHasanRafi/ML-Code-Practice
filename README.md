@@ -13,3 +13,4 @@ This repository contains various Python practice exercises categorized by topics
 | 02 | Control Flow | Conditional statements, and loops |
 | 03 | Inbuilt Data Structures | Lists, and dictionaries |
 | 04 | Advanced Functions | Defining functions |
+| 05 | Modules and Packages | Importing modules, standard library and using packages |
